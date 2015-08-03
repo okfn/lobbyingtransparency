@@ -1,0 +1,23 @@
+---
+title: Standards
+---
+<div class="page-header">
+    <%= partial "header" %>
+</div>
+
+<article>
+    
+    <% data.standards.content.each do |s| %>
+    <section>
+        <h2><%= s.heading %></h2>
+        <%= markdownify s.overview %>
+        <aside class="guiding-notes">
+            <h3>Guiding Notes</h3>
+            <div>
+                <%= markdownify s.notes %>
+            </div>
+        </aside>
+    </section>
+    <% end %>
+    
+</article>
