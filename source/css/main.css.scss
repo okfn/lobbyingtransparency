@@ -307,6 +307,18 @@ body > article {
         ul + .guiding-notes {
             margin-left: $base-spacing;
         }
+        
+        &.introduction {
+            margin-top: $base-spacing;
+            
+            & > div {
+                font-size: 0.9em;
+
+                .footnotes {
+                    font-size: 0.7em;
+                }
+            }
+        }
     }
     
     .guiding-notes {
