@@ -9,14 +9,23 @@ title: Standards
     
     <% data.standards.content.each do |s| %>
     <section>
-        <h2><%= s.heading %></h2>
+        <% if s.heading %> 
+            <h2 class="standard-heading" id="<%= s.heading.downcase.gsub!(' ','-') %>"><%= s.heading %></h2>
+        <% end %>
         <%= markdownify s.overview %>
-        <aside class="guiding-notes">
-            <h3>Guiding Notes</h3>
-            <div>
-                <%= markdownify s.notes %>
+        <% if s.notes %>
+            <div class="guiding-notes">
+                <h4 class="notes-heading">Guiding Notes</h4>
+                <div>
+                    <%= markdownify s.notes %>
+                </div>
             </div>
+        <% end %>
+        <% if s.aside %>
+        <aside>
+            <%= markdownify s.aside %>
         </aside>
+        <% end %>
     </section>
     <% end %>
     

@@ -51,14 +51,17 @@ h2 {
 
 h3 {
     font-size: 1.3em;
+    font-weight: normal;
 }
 
 h4 {
     font-size: 1.2em;
+    font-weight: normal;
 }
 
 h5 {
     font-size: 1.1em;
+    font-weight: normal;
 }
 
 strong {
@@ -264,17 +267,49 @@ body > article {
     
     ol {
         @extend %default-ol;
+        list-style-type: lower-alpha;
+        font-size: 0.9em;
     }
     
+    counter-reset: num; 
+    
+    
     & > section {
-        padding: $base-spacing 0;
+        padding-bottom: $small-spacing;
         
-        @media (min-width: $large-screen) {
-            padding-top: $base-spacing * 2;
+        .standard-heading {
+            margin-top: $base-spacing;
+            
+            @media (min-width: $large-screen) {
+                margin-top: $base-spacing * 2;
+            }
+        }
+        
+        & > ol {
+            padding-left: 0;
+   
+            & > li {
+                list-style-type: none;
+                margin-bottom: $small-spacing;
+                margin-left: $base-spacing;
+
+                &:before {
+                    counter-increment: num;
+                    content: counter(num) ". ";
+                    float: left;
+                    margin-left: - $base-spacing;
+                    color: $primary;
+                }
+            }
+        }
+        
+        ol + .guiding-notes,
+        ul + .guiding-notes {
+            margin-left: $base-spacing;
         }
     }
     
-    aside {
+    .guiding-notes {
         font-size: 0.9em;
         color: $medium-gray;
         @media (min-width: $medium-screen) {
@@ -283,7 +318,9 @@ body > article {
         
         &.guiding-notes {
 
-            h3 {
+            .notes-heading {
+                font-weight: normal;
+                
                 a {
                     color: inherit;
                     
@@ -314,6 +351,34 @@ body > article {
         border-top: solid 1px $light-gray;
         padding-top: $base-spacing;
         margin-top: $base-spacing;
+        
+        ol {
+            list-style-type: decimal;
+            font-size: 1em;
+        }
+    }
+    
+    aside {
+        background-color: rgba($light-gray, 0.4);
+        padding: $base-spacing;
+        font-size: 0.75em;
+        margin: $base-spacing (- $base-spacing);
+        
+        @media (min-width: $medium-screen) {
+            padding: $base-spacing * 1.5;
+            margin-top: $base-spacing * 1.5;
+            margin-bottom: $base-spacing * 1.5;
+        }
+            
+        .footnotes {
+            ol {
+                margin-bottom:0;
+            
+                p {
+                    margin-bottom: 0;
+                }
+            }
+        }
     }
 }
 

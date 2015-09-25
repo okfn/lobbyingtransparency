@@ -12,7 +12,7 @@ $( document ).ready(function() {
     
     //collapse guiding notes
     new jQueryCollapse($("html.standards .guiding-notes"), {
-        query: 'h3',
+        query: 'h4',
         open: function() {
             this.slideDown(200);
         },
