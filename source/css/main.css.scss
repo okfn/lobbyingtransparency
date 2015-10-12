@@ -686,4 +686,22 @@ html.index {
     h3 {
         page-break-after: avoid;
     }
+    
+    .page-header {
+        .hashtag {
+            display: none;
+        }
+    }
+    
+    .guiding-notes {
+        .notes-heading {
+            a:after {
+                display: none !important;
+            }
+        }
+        
+        & > div {
+            display: block !important;
+        }
+    }
 }
