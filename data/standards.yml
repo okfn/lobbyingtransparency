@@ -39,6 +39,8 @@ content:
       
   -
     overview: |
+        ### Definitions
+        
         1. **‘Lobbying’** – the term should cover any direct or indirect communication with a public official that is made, managed or directed with the purpose of influencing public decision-making.
         
     notes: |
@@ -122,7 +124,7 @@ content:
         6. Public officials, diplomats, political parties  – if deemed necessary, the regulation may exclude public officials acting in their official capacity, diplomatic agents of foreign states and political parties (since they play a quasi-public role).
         
     notes: |
-        Exceptions for **public officials** and **diplomats** are a recurrent feature in lobbying regulations[^12]. In Austria[^13] and the United States[^14] **political parties** are also specifically exempted from lobbying legislation. This is because these public actors are an established part of the decision-making process. As such, they should be covered under the proactive and reactive transparency requirements that apply to public decision-making processes (see the section on “Public Access to Information for more).
+        Exceptions for **public officials** and **diplomats** are a recurrent feature in lobbying regulations[^12]. In Austria[^13] and the United States[^14] **political parties** are also specifically exempted from lobbying legislation. This is because these public actors are an established part of the decision-making process. As such, they should be covered under the proactive and reactive transparency requirements that apply to public decision-making processes (see the section on “Public Access to Information” for more).
         
         [^12]: See for example the detailed list of exceptions in Section 3 (8) (B) Lobbying Disclosure Act of 1995 (United States), [lobbyingdisclosure.house.gov](http://lobbyingdisclosure.house.gov/index.html).
         [^13]: Section 1 (3) Law on Lobbying (Austria), [www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2012_I_64](http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2012_I_64) (German).
@@ -193,7 +195,7 @@ content:
         
   - 
     overview: |
-        10. Accessibility, openness and comparability of data – the information should be made available online, through a single website, free of charge, indexable and downloadable in full as machine readable open data (as per opendefinition.org). As far as possible, this data should conform to existing open data standards. A unique identifier shall be assigned to each lobbyist and organisation registered. Linking the information to other data sets, including those arising from proactive government disclosure, is highly recommended.
+        10. Accessibility, openness and comparability of data – the information should be made available online, through a single website, free of charge, indexable and downloadable in full as machine readable open data (as per [opendefinition.org](http://opendefinition.org/)). As far as possible, this data should conform to existing open data standards. A unique identifier shall be assigned to each lobbyist and organisation registered. Linking the information to other data sets, including those arising from proactive government disclosure, is highly recommended.
         
     notes: |
         Publishing the information in open formats allows for advocacy groups, journalists and members of the public to download, search through and analyse the data, without the need to pay for proprietary software. This in turn ensures that there is wider public dissemination of the information and that the data is more digestible for citizens and decision-makers alike.
@@ -372,7 +374,7 @@ content:
         18. Post-employment restrictions – there should be a proportionate moratoria (or ‘cooling-off periods’) of at least 2 years before former public officials can lobby their former institutions concerning their prior duties. Approval from a designated ethics agency may be required before the public official can take up such a position.
         
     notes: |
-        The OECD’s “10 Principles for Transparency and Integrity in Lobbying” call in this context to “avoid post-public service ‘switching sides’ in specific processes and using their insider knowledge of the process to the benefit of their new, private sector, employer. It may be necessary to impose a ‘cooling-off’ period that restricts former public officials from lobbying their past organisations, should a risk of a conflict of interest arise. As for cooling-off periods, it should be noted that some countries apply longer periods of up to three or five years, such as Canada[^54] or Taiwan.[^55]
+        The OECD’s “10 Principles for Transparency and Integrity in Lobbying” call in this context to avoid post-public service ‘switching sides’ in specific processes and using their insider knowledge of the process to the benefit of their new, private sector, employer. It may be necessary to impose a ‘cooling-off’ period that restricts former public officials from lobbying their past organisations, should a risk of a conflict of interest arise. As for cooling-off periods, it should be noted that some countries apply longer periods of up to three or five years, such as Canada[^54] or Taiwan.[^55]
         
         [^54]: Section 10.11 Lobbying Act (Canada): “No individual shall, during a period of five years after the day on which the individual ceases to be a designated public office holder carry on” lobbying activities; [www.ocl-cal.gc.ca/eic/site/012.nsf/eng/h_00008.html](http://www.ocl-cal.gc.ca/eic/site/012.nsf/eng/h_00008.html).
         [^55]: Article 10 Lobbying Act (Taiwan): Public officials “shall not lobby [...] on behalf of legal persons or organizations in three years after leaving office”, [www.tychakka.gov.tw/hakka2012/intro/sheet/upt.asp?pageno=1&uid=&con=&cid=&year=&month=&day=&key=&p0=19](http://www.tychakka.gov.tw/hakka2012/intro/sheet/upt.asp?pageno=1&uid=&con=&cid=&year=&month=&day=&key=&p0=19).  
