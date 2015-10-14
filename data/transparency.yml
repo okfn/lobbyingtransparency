@@ -1,0 +1,151 @@
+content:
+  - 
+    heading: TRANSPARENCY
+    
+    overview: |
+        The lobbying interactions between lobbyists and public officials shall be transparent, increasing awareness on the operation of government, contributing to stakeholder participation and allowing for public confidence and oversight. The responsibility for transparency should be shared by the lobbyists and the public official, but it is public officials who must be accountable to the public for decisions taken.
+        
+    notes: |
+        Transparency is the **key objective** of the at least 20 lobbying regulations that are known worldwide: there are regulations which aim only at transparency[^15], but there is no regulation that does not include transparency. Furthermore, transparency is one of the two main pillars of the OECD’s “10 Principles for Transparency and Integrity in Lobbying” (alongside Integrity), and the “International Lobbying Disclosure Guidelines” by the Sunlight Foundation focus only on transparency[^16], as does Access info's Briefing on Lobbying Transparency via the Right of Access to Information[^17].
+        
+        [^15]: For example the lobby register in the German Parliament: [www.bundestag.de/dokumente/lobbyliste](https://www.bundestag.de/dokumente/lobbyliste) (German).
+        [^16]: [sunlightfoundation.com/policy/lobbying/guidelines/](http://sunlightfoundation.com/policy/lobbying/guidelines/).
+        [^17]: Access Info Europe, “Lobbying Transparency via Right to Information Laws” (2013, Updated June 2015), [www.access-info.org/pub-and-toolkits/17237](http://www.access-info.org/pub-and-toolkits/17237)
+        
+  - 
+    overview: |
+        ### Lobbying Register
+        
+        7. Mandatory register – the framework should require the establishment of a mandatory lobbying register to which the lobbyists, and all organisations who lobby whether by employing in-house or other lobbyists, must sign up in order to conduct their lobbying activities, and within which such activities are to be reported on a periodic basis along with any designated supplementary information.
+        
+    notes: |
+         **Mandatory registers** are the uniform standard in national lobbying legislations. They usually require the parallel sign up of several lobbyists: the legal entity that is lobbying is responsible for making a declaration in the lobby register, in which they must list these natural people working for them as lobbyists, as well as the lobbying client where applicable. Lobby clients are usually also required to register, and to likewise declare who they are hiring to act on their behalf. Many national lobbying legislations make registration a condition for lobbying or for obtaining access to key decision-makers. Some regulations go even further and require certain qualifications for conducting lobbying activities.[^18] However, this is problematic as it creates a danger that ordinary citizens, small businesses or civil society groups would be prevented from accessing decision-makers, which runs counter to these standards.
+         
+         [^18]: Law on Lobbying (Montenegro), Chapter III, [antikorupcija.me/index.php?option=com_phocadownload&view=category&id=27:&Itemid=195](http://antikorupcija.me/index.php?option=com_phocadownload&view=category&id=27:&Itemid=195) (unofficial translation from Montenegrin).
+        
+  - 
+    overview: |
+        
+        8. Timely registration and reporting – the initial lobbyist registration should take place in a timely fashion, before any lobbying activity takes place. Information should be updated shortly after any relevant changes occur. The frequency of activity reporting should be set with the aim of allowing for the meaningful analysis and intervention from other parties (minimum quarterly, ideally close to real-time).
+        
+    notes: |
+        Timely registration and reporting aims at equality of arms between different interest groups: The OECD’s “10 Principles for Transparency and Integrity in Lobbying” make clear that the public should have “timely access to such information [about lobbying]” in order to allow for “the inclusion of diverse views of society and business to provide balanced information in the development and implementation of public decisions”.
+
+        The frequency of reporting should be designed to allow other interest groups or the public at large to react to lobbying information before final decisions are taken. In Canada, for example, lobbyists are obliged to file monthly returns in which they must report the name of the designated public office holder who was the object of a communication, the date of these communications, and the subject-matter of the communication.
+        
+  - 
+    overview: |
+        9. Information disclosed – among others, the register shall include information on:
+        
+            1. lobbyist identity
+            2. the subject matter of lobbying activities and outcomes sought
+            3. the ultimate beneficiary of lobbying activities (where relevant)
+            4. the targeted institution and/or the public official concerned
+            5. the type and frequency of lobbying activities
+            6. any supporting documentation shared with the public officials
+            7. lobbying expenditure, including in-kind (calculated to set criteria, in cost bands, if need be)
+            8. sources of funding, per client and per dossier
+            9. any political contributions, including in-kind
+            10. any prior roles as public official held by the individual and/or family members
+            11. public funding received
+        
+    notes: |
+        1. This should include the name and surname of the natural person engaged in lobbying. At the time of registration, lobbyists should provide consent that their names will be accessible via the register.
+        2. This is to ensure that citizens know what decisions lobbyists are trying to impact upon and how.
+        3. Members of the public should be able to know who exactly is seeking to have an impact upon a particular decision. This also prevents “astroturfing”, which is when large lobby groups set up smaller organisations or citizens' petitions to defend their interests, making them look like grassroots efforts (“astroturfing” is a play on words for a fake version of “grassroots”).
+        4. This is to ensure the impartiality and accountability of public officials and institutions involved in decision-making.
+        5. This should lay out the various methods used: public events, press statements, websites, coalitions, agenda-setting activities, research, etc., so that the public can get a real idea of how attempts to influence public decision-making function.
+        6. Disclosure of position papers, research reports etc. which are used to support lobbying efforts, allows the general public to see what arguments are being presented and for other counter-interests to organise and also participate in the decision-making process.
+        7. There may always be inequality of means but this should not result in inequality of access and impact on decision-making. To ensure that this is the case, transparency over lobby expenditure is essential.
+        8. This is mostly relevant for lobby consultancy firms and law firms that provide lobby services, and it is necessary to ensure that lobby clients are subject to the same levels of transparency as those that do not hire third parties.
+        9. Notwithstanding specific legislation on political contributions, measures like this would work to prevent “cash for access” or “cash for influence” scandals, actions which are clearly prohibited under international standards and by political finance laws throughout Europe.
+        10. This is to ensure transparency over potential conflicts of interest or instances of inequality of access to decision-makers that could result from the revolving door (when public officials move from regulatory jobs to work for a private firm in the same sector that he or she previously regulated – see the section on Integrity below for more).
+        11. This is to ensure transparency and accountability in the spending of public funds, and it allows citizens to assess whether or not there is a level playing field.
+        
+  - 
+    overview: |
+        10. Accessibility, openness and comparability of data – the information should be made available online, through a single website, free of charge, indexable and downloadable in full as machine readable open data (as per [opendefinition.org](http://opendefinition.org/)). As far as possible, this data should conform to existing open data standards. A unique identifier shall be assigned to each lobbyist and organisation registered. Linking the information to other data sets, including those arising from proactive government disclosure, is highly recommended.
+        
+    notes: |
+        Publishing the information in open formats allows for advocacy groups, journalists and members of the public to download, search through and analyse the data, without the need to pay for proprietary software. This in turn ensures that there is wider public dissemination of the information and that the data is more digestible for citizens and decision-makers alike.
+
+        The United States Senate Lobbying Disclosure Database is an example allowing for advanced searches by combining several search criteria[^19]. In addition, the Canadian lobbying register provides for an extraction of the whole set of registered data[^20]. Civil society organisations already make use of the data that is available: for example, the Sunlight Foundation has launched an online “influence explorer”, which “lets users explore how foreign entities influence policy and public opinion in the U.S.”[^21] “OpenSecrets” publishes a database showing lobbing expenditures in the United States: users can search by name for a company, lobbying firm or individual lobbyist; search for the total spending by a particular industry; view the interests that lobbied a particular government agency; or search for lobbying on a general issue or specific piece of legislation.[^22]
+        
+        [^19]: [soprweb.senate.gov/index.cfm?event=selectfields](http://soprweb.senate.gov/index.cfm?event=selectfields).
+        [^20]: [www.ocl-cal.gc.ca/eic/site/012.nsf/eng/h_00872.html](http://www.ocl-cal.gc.ca/eic/site/012.nsf/eng/h_00872.html).
+        [^21]: [influenceexplorer.com](http://influenceexplorer.com).
+        [^22]: [www.opensecrets.org/lobby](https://www.opensecrets.org/lobby/index.php)
+        
+  - 
+    overview: |
+        11. Minimal administrative burden – the system should allow for ease of registration and reporting, and look to minimise the administrative burden involved. The public sector obligations in terms of proactive disclosure and the public right to know should factor in achieving the right balance of mutual duties for lobbying transparency.
+        
+    notes: |
+        Registration should be quick and simple to do, preferably online and ideally using one single system for registration, reporting and publication. It is important to remember that public officials are obliged to respect the right of access to information, so the burden should be placed on them to also be transparent about lobbying and the impact it has on the decision-making process.
+        
+  - 
+    overview: |
+        ### Public Access to Information
+        
+        12. Access to information law – a comprehensive access to information law shall guarantee the public’s right of access to information, including information about lobbying. 
+        
+    notes: |
+        Public bodies are obliged to fulfil and respect the fundamental right of access to information, and to ensure that their decision-making processes are transparent and accessible. Public officials should be accountable for the decisions that they take and for the impact that lobbyists have on the decision-making process.
+
+        The OECD’s “10 Principles for Transparency and Integrity in Lobbying” contain a reminder that “freedom of information legislation” is one of the prerequisites to “support a culture of transparency and integrity in lobbying”. 
+
+        These standards do not cover the influence that other public bodies such as Ministries, Advisory Bodies, third countries or even International Institutions might have on national decision-making processes, as it is understood that, as public actors, their accountability would be achieved through proactive and reactive government disclosure under specific access to information laws.
+
+        For more information, see Access Info Europe's Briefing on Lobbying Transparency via the Right of Access to Information.[^23]
+        
+        [^23]: Access Info Europe, “Lobbying Transparency via Right to Information Laws” (2013, Updated June 2015), [www.access-info.org/pub-and-toolkits/17237](http://www.access-info.org/pub-and-toolkits/17237)
+     
+  - 
+    overview: |
+        13. Limited exceptions – the law should clearly set out a limited number of exceptions to address the privacy, security, financial sensitivity, decision-making process and any other legitimate concerns, which should be bound by a harm and public interest test applied in line with internationally accepted standards.
+        
+    notes: |
+        The right of access to information is not an absolute right and there are certain legitimate interests that could be harmed as a result of publication of some pieces of information. The Council of Europe Convention is the first international treaty on access to documents and, although it is not yet in force, it is widely seen as the standard for defining which freedom of information exceptions are legitimate and which are not. Exceptions to the right of access to information should be covered by a harm test (so that the exception only applies if actual harm might arise from publication), and by a public interest test (so that, where harm might well occur but there is an overriding public interest in the information, it should be published anyway).[^24]
+
+        As the General Court of the European Court of Justice has made clear, “if citizens are to be able to exercise their democratic rights, they must be in a position to follow in detail the decision-making process [...] and to have access to all relevant information.”[^25]
+        
+        [^24]: See an overview of the standards on the right of access to information at: [www.article19.org/resources.php/resource/3024/en/international-standards:-right-to-information](http://www.article19.org/resources.php/resource/3024/en/international-standards:-right-to-information); [www.right2info.org/international-standards](http://www.right2info.org/international-standards).
+        [^25]: General Court of the European Court of Justice, Case T-233/09 (Access Info Europe vs. Council of the European Union), Ruling of 22 March 2011, paragraph 69, [eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62009TJ0233](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62009TJ0233).
+        
+  - 
+    overview: |
+        14. Proactive publication – the public bodies and officials should proactively publish their organisational, programmatic, administrative, financial, and business schedule information, summaries of meetings and other interactions with third parties, as well as any background documentation and preparatory analyses received or commissioned in the course of their work. These obligations shall also extend to the operation of any expert and consultative bodies convened by the public sector.
+        
+    notes: |
+        **Proactive publication** of information is an intrinsic part of the right of access to information. A recent paper by the World Bank points out that “proactive disclosure is integral to the transparency that underpins good government [...]. The precise standards for what information should be proactively disclosed are still being defined, but it is possible to identify common classes of information which should form the minimum of any national access to information regime.”[^26] In the context of lobbying, these Standards define the minimum that is necessary to monitor lobbying influences in the records of state bodies, including schedules, agendas, or meeting notes. For more information on which information about lobbying should be published proactively and which in response to access to information requests, see Access Info Europe's Lobby Transparency via the Right of Access to Information Laws briefing: [www.access-info.org/pub-and-toolkits/17237](http://www.access-info.org/pub-and-toolkits/17237)
+        
+        [^26]: Helen Darbishire, Proactive Transparency: The future of the right to information? (2015), page 45, [www.access-info.org/pub-and-toolkits/12099](http://www.access-info.org/pub-and-toolkits/12099).
+        
+  - 
+    overview: |
+        15. Decision-making footprint – where possible, and certainly for all legislative and policy initiatives, this information should be clustered around the individual items for consideration, producing a ‘decision-making footprint’, outlining the history, public engagement and overall process for the initiative. The footprint should also link to the lobbying register data.
+        
+    notes: |
+        The OECD’s “10 Principles for Transparency and Integrity in Lobbying” call on governments to “consider facilitating public scrutiny by indicating who has sought to influence legislative or policy-making processes, for example by disclosing a “legislative footprint” that indicates the lobbyists consulted in the development of legislative initiatives.” This principle of transparency should apply to executive decision-making processes as well.
+        
+        In 2011, the European Parliament adopted a proposal to create a “legislative footprint annex” to reports drafted by Members of the Parliament. This annex would list all the lobbyists whom lead MEPs met while a legislative report was being drafted, albeit on a voluntary basis.[^27] 
+
+        To read more about what a legislative footprint should look like, see the briefing created for the EU institutions by the EU Office of Transparency International.[^28]
+        
+        [^27]: [www.europarl.europa.eu/news/en/news-room/content/20110429FCS18372/12/html/MEPs-back-joint-Parliament-Commission-register-of-lobbyists](http://www.europarl.europa.eu/news/en/news-room/content/20110429FCS18372/12/html/MEPs-back-joint-Parliament-Commission-register-of-lobbyists).
+        [^28]: Transparency international EU Office, “EU Legislative Footprint. What´s the real influence of lobbying?” (2015), [www.transparencyinternational.eu/wp-content/uploads/2015/03/Transparency-05-small-text-web.pdf](http://www.transparencyinternational.eu/wp-content/uploads/2015/03/Transparency-05-small-text-web.pdf).
+        
+  - 
+    overview: |
+        16. Clear, Free and Comprehensive – all information must be made public without charge (excluding actual costs on delivery) and without limits to reuse. Any key information and analysis should be presented in a form that is accessible and comprehensible to both citizens and interest groups. All recently generated data proactively released shall be published as machine readable open data.
+        
+    notes: |
+        International Standards on the right of access to information make clear that public data should be provided for free, unless costs for the actual reproduction of the data need to be recovered (such as printing or photocopying costs). 
+
+        Restrictions on re-use of public information are, in effect, a limitation also on the right to freedom of expression, and hence they should only be applied to public data where strictly necessary.
+
+        The OECD’s “10 Principles for Transparency and Integrity in Lobbying” state that “The public has a right to know how public institutions and public officials made their decisions, including, where appropriate, who lobbied on relevant issues. Countries should consider using information and communication technologies, such as the Internet, to make information accessible to the public in a cost-effective manner.” 
+
+        There are several open data standards that could be used to ensure that lobbying information is published in a machine-readable format, which allows for more efficient processing and analysis of public information – the European Commission and OECD have published some guidelines on this.[^29]
+        
+        [^29]: [ec.europa.eu/digital-agenda/en/news/commission-notice-guidelines-recommended-standard-licences-datasets-and-charging-re-use](http://ec.europa.eu/digital-agenda/en/news/commission-notice-guidelines-recommended-standard-licences-datasets-and-charging-re-use); [www.oecd.org/internet/ieconomy/40826024.pdf](http://www.oecd.org/internet/ieconomy/40826024.pdf); [www.oecd.org/internet/ieconomy/oecdguidelinesforthesecurityofinformationsystemsandnetworkstowardsacultureofsecurity.htm](http://www.oecd.org/internet/ieconomy/oecdguidelinesforthesecurityofinformationsystemsandnetworkstowardsacultureofsecurity.htm).

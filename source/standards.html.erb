@@ -12,26 +12,25 @@ title: Standards
             <%= partial "introduction" %>
         </div>
     </section>
-    <% data.standards.content.each do |s| %>
-    <section>
-        <% if s.heading %> 
-            <h2 class="standard-heading" id="<%= s.heading.downcase.gsub!(' ','-') %>"><%= s.heading %></h2>
-        <% end %>
-        <%= markdownify s.overview %>
-        <% if s.notes %>
-            <div class="guiding-notes">
-                <h4 class="notes-heading">Guiding Notes</h4>
-                <div>
-                    <%= markdownify s.notes %>
-                </div>
-            </div>
-        <% end %>
-        <% if s.aside %>
-        <aside>
-            <%= markdownify s.aside %>
-        </aside>
-        <% end %>
-    </section>
+    <% data.guiding_principles.content.each do |sec| %>
+        <%= partial(:standard_section, :locals => { :s => sec }) %>
     <% end %>
-    
+    <% data.regulatory_scope.content.each do |sec| %>
+        <%= partial(:standard_section, :locals => { :s => sec }) %>
+    <% end %>
+    <% data.transparency.content.each do |sec| %>
+        <%= partial(:standard_section, :locals => { :s => sec }) %>
+    <% end %>
+    <% data.integrity.content.each do |sec| %>
+        <%= partial(:standard_section, :locals => { :s => sec }) %>
+    <% end %>
+    <% data.participation_access.content.each do |sec| %>
+        <%= partial(:standard_section, :locals => { :s => sec }) %>
+    <% end %>
+    <% data.oversight.content.each do |sec| %>
+        <%= partial(:standard_section, :locals => { :s => sec }) %>
+    <% end %>
+    <% data.framework.content.each do |sec| %>
+        <%= partial(:standard_section, :locals => { :s => sec }) %>
+    <% end %>
 </article>

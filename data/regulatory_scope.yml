@@ -1,0 +1,106 @@
+content:
+  -
+    heading: REGULATORY SCOPE
+    
+    overview: |
+        The lobbying framework should clearly and unambiguously define what is lobbying and who is to be considered a lobbyist and lobbying target for the purposes of regulation.
+    
+    notes: |
+        Defining lobbying and the lobbying target is the pivotal point of a regulation: without a definition, there are neither obligations nor rights for stakeholders. Experience with lobbying regulation shows that weak definitions are one of the main causes of loopholes. One word can decide, for example, whether in-house lobbyists are included or not, or whether a lobbyist can hide behind the activities of a non-profit organisation. The OECD has recommended that definitions of lobbying “be robust, comprehensive and sufficiently explicit to avoid misinterpretation and to prevent loopholes.” [^4]
+      
+        [^4]: [acts.oecd.org/Instruments/ShowInstrumentView.aspx?InstrumentID=256&InstrumentPID=+250](http://acts.oecd.org/Instruments/ShowInstrumentView.aspx?InstrumentID=256&InstrumentPID=+250)
+      
+      
+  -
+    overview: |
+        ### Definitions
+        
+        1. **‘Lobbying’** – the term should cover any direct or indirect communication with a public official that is made, managed or directed with the purpose of influencing public decision-making.
+        
+    notes: |
+        A **lobbying** definition should address commonly known forms of lobbying, where a lobbyist enters into **direct** contact with a public official, but it should also cover **indirect** lobbying activities, for example, where lobbyists mobilise other stakeholders to represent their views or hire consultancy firms to do lobbying work on their behalf.
+
+        The definition should cover “grassroots lobbying”, whereby a lobbyist asks a group of citizens or the general public to contact legislators and government officials and to lobby for their interest. However, the individual citizens would not be considered lobbyists (see the exceptions below). The terms “indirect” and “managed or directed” in the Standards refer to these types of activities, and this formulation is in line with Principle 4 of the OECD’s “10 Principles for Transparency and Integrity in Lobbying”.
+
+  -
+    overview: |
+        2. **‘Public Official’**  – shall include any individual with decision-making powers (and their advisors), who are elected, appointed or employed within the executive or legislative branches of power at national, sub-national, or supra-national levels;  within private bodies performing public functions; and within public international organisations domiciled or operational in the country concerned.
+        
+    notes: |
+        The definition of **public official** in these Standards is largely in line with the definition in international conventions (Article 2 lit. a United Nations Convention against Corruption). **Policy and legal advisors** should also be explicitly mentioned in order to ensure coverage of political staffs of members of parliaments, which are not considered as public officials in all jurisdictions.
+
+        The term **executive branch** includes all public bodies, including independent institutions, such as anti-corruption commissions or general prosecutor offices.
+
+        Public officials working in the **judicial branch**, including **judges** and their **legal experts** or aides, are covered by this definition insofar as they exercise administrative decision-making functions, but not when they are working on ongoing cases. Attempting to influence judges acting within judicial proceedings is explicitly prohibited by other laws with criminal sanctions and hence not covered by this definition.
+
+        Increasingly **public functions are outsourced to private entities** that exercise administrative authority, perform public functions and/or receive substantial public funds. Due care should be taken to ensure they are covered by lobbying regulations.
+
+        Decision makers on **regional or local levels** of the state should also be covered as they take decisions that are the target of lobbying activities and that have an impact on citizens' day-to-day lives.
+
+        The same is true of **international organisations**, which should also be covered as they define and shape policies and legislation that their member states apply, so they should also be subject to the same levels of lobbying transparency.
+
+  -
+    overview: |
+        3. **‘Lobbyist’** – should entail any natural or legal person who engages in lobbying activities, whether for private, public or collective ends, whether for compensation or without.
+        
+    notes: |
+        The inclusion of lobbyists who do not work for **compensation** is in line with the OECD’s “10 Principles for Transparency and Integrity in Lobbying”, which call under Principle 4 for the inclusion of “**not-for-profit entities**, which aim to influence public decisions”. It also may be the case that an **honorary board member** receiving no compensation uses his or her clout to the advantage of the company or NGO they are affiliated with, so this must be covered by the definition.
+        
+        The definition of lobbyists should always include “**in-house**” lobbyists, those that work inside a particular organisation defending the interests of that company. Some lobby regulations, such as the one proposed in the UK, overlooks these lobbyists, focusing only on those working inside specific lobbying agencies. It hence leaves out a huge proportion of the lobby industry from the scope of the law.[^5] The definition should also include senior staff within companies or organisations (for example, a CEO of a corporation) for whom lobbying is not necessarily part of their job description, but who use their clout to gain access to government officials or influence public decisions.
+        
+        It should also be kept in mind that the private sector is not the only one that has lobbying interests; **public entities** such as local authorities or state owned companies often also have interests they would like to pursue towards the legislator or decision-maker. Indeed, **Member States** or **third countries** might want to influence the outcome of a decision taken by the EU, or by the OECD. We propose that this type of influence be captured and reported as part of the transparency of the decision-making process in general, rather than be covered by specific regulations on lobbying.
+        
+        It is worth highlighting the case of **lawyers** and their professional associations, which often try to fend off any lobbying regulation requirements by referring to the need to protect attorney-client privilege[^6]. However, this privilege only applies to legal advice and representation in formal legal procedures. Wherever lawyers do not represent a client’s legal interest in a concrete case towards executive or judicial officials, but political interests towards legislators in changing general legal rules or policies, lobbying regulations need to apply. Otherwise lawyers will have an unfair advantage vis-á-vis some clients who may prefer working with companies that are “regulation free”.
+        
+        > **Practical example:** A Texas lawyer managed to exonerate a prisoner client, but the client could not afford to pay the legal bill. The lawyer lobbied the state of Texas to raise the state's payment for unfairly imprisoned prisoners from US$50,000 per year to US$80,000 per year. His lobbying efforts were successful in making it possible for his client to pay the lawyer's fees. In this example, defending the client for wrongful imprisonment falls under legal representation, but the influence on the state legislator to raise the amount of compensation was technically lobbying.
+        
+        [^5]: [www.opendemocracy.net/ourkingdom/jonathan-gray/britain-shines-light-of-transparency-on-secret-lobbying-just-kidding](https://www.opendemocracy.net/ourkingdom/jonathan-gray/britain-shines-light-of-transparency-on-secret-lobbying-just-kidding)
+        [^6]: Transparency International, “Lobbying in Europe – Hidden Influence, Privileged Access” (2015), page 15, [www.transparency.org/whatwedo/publication/lobbying_in_europe](http://www.transparency.org/whatwedo/publication/lobbying_in_europe).
+        
+  -
+    overview: |
+        4. **‘Public decision-making’** – shall include the creation and amendment of legislation or any other regulatory measures; the development, modification and implementation of public policies, strategies and programmes; and the awarding of government contracts or grants, administrative decisions or any other public spending decisions.
+        
+    notes: |
+        Lobbying regulations sometimes focus only on parliamentary decisions[^7]. The Standards make it clear that such an approach is way too narrow: there are important public decisions also taken by the executive branch (including independent bodies), such as anti-trust decisions, financial market oversight approvals, or bail-out guarantees as well as rule-making processes at Agency and Ministry levels that have a significant impact on citizens' lives. On a regional/local level, it is obvious that for example, building permits[^8] can have a significant economic impact and thus would justify respective lobbying efforts, and hence regulation. 
+
+        **International organisations** are probably the biggest gap in current regulations: the United Nations, the African Union, or the Council of Europe have not yet subjected lobbyists to any regulation. The European Union has adopted several measures to regulate lobbying: there is a lobby register (albeit still voluntary) and access to high-level decision-makers in the European Commission or to the premises of the European Parliament is forbidden to lobbyists that do not register. However, the EU could go further than it has done so far, as it has the ability to force the Member States to adopt lobby regulation in order to fulfil the Treaty objective of maintaining “open, transparent and regular dialogue with representative associations and civil society” and of giving “citizens and representative associations the opportunity to make known and publicly exchange their views in all areas of Union action.” Other international bodies could also enact lobby regulation similar to that currently in force at the EU level.
+
+        There is a question about the extent to which international organisations (and indeed the supranational EU) can impose civil, administrative, or criminal sanctions on lobbyists. However, the countries making up the international organisations could impose lobby regulations that also cover lobbying towards inter-governmental bodies. In Ireland, for example, members of the European Parliament are covered by the national lobby legislation[^9].
+        
+        [^7]: Article 2 Act on Lobbying in the Legislative Process of Poland (version of 7 July 2005): “Within the meaning of the Act, lobbying shall mean each lawful activity intended to influence public authorities in the legislative process”, [www.legislationline.org/documents/id/3635](http://www.legislationline.org/documents/id/3635).
+        [^8]: See Section 5 (1) (c) Regulation of Lobbying Act 2015 (Ireland): The definition of “lobbying” includes “any relevant communications about the development or zoning of land”, [www.per.gov.ie/regulation-of-lobbying](http://www.per.gov.ie/regulation-of-lobbying/).
+        [^9]: Section 6 (1) (c) Regulation of Lobbying Act 2015 (Ireland), [www.per.gov.ie/regulation-of-lobbying](http://www.per.gov.ie/regulation-of-lobbying/).
+        
+  -
+    overview: |
+        ###Exceptions
+        
+        5. Citizen interactions – the interaction of individual citizens with public officials concerning their private affairs shall not be considered lobbying, save for where it may concern individual economic interests of sufficient size or importance so as to potentially compromise public interest. In such case, a careful balancing act needs to be made on the respective benefit and efficacy of regulation, as well as due consideration given to any constitutional protections and guarantees.
+
+    notes: |
+        The exception for “**citizen interaction**” goes back to the third guiding principle of these Standards under which lobbying regulation should not impede on the individual rights of free speech and petition of government.
+
+        When defining exceptions, care should be taken to ensure that they are applied narrowly. There are two reasons for this: First, there is no reason why small scale lobbyists should not fully comply with codes of conduct. Second, exceptions are risky in general, as they will be the first elements lobbyists will try to use as entry points for circumvention. We have not proposed an exception defined in terms of financial thresholds, number of employees, or time amount spent on lobbying because this creates loopholes, as the example of the USA's Lobbying Disclosure Act has shown[^10]. In addition, we reject the exception that, in some jurisdictions, applies to **experts** that are specifically **invited** to contribute to hearings. The reason for not exempting invited experts is that it can create loopholes for non-disclosure which could allow overly cosy relationships between public officials and private lobbyists to flourish. 
+
+        The definition of lobbying in these Standards covers the action of attempting to influence a decision-making process. Hence, a citizen following up on an administrative procedure, for example to check whether or not their parking permit was received and/or approved, would not be covered by lobby regulations (we note that where there is an attempt to exercise influence, this should be covered by legislation on bribery or trafficking in influence).
+
+        Where the individual is attempting to exercise influence on a decision-making process, a distinction should be made between **one-off or sporadic contacts** and regular attempts to influence these processes. Only those that regularly attempt to engage in a decision-making process should be required to register. This is because it is disproportionate and unnecessary to oblige every citizen that engages in sporadic lobbying activities to register.
+
+        Due consideration should be given to whether particular individuals are so wealthy or influential that they might conceivably be able to influence a decision-making process even through a one-off contact. While this is difficult to regulate from the lobbyist’s side, due care should be taken to ensure the interactions of these individuals with decision-makers are covered by the public officials' obligation to be transparent. 
+
+        However, the exception for citizens should be no entry point for abuse. Where the lobbying activities relate to an **individual's business interests** and where the action seeks to influence a decision-making process in its favour, the individual entrepreneur should be obliged to register (provided it is more than a one-off contact). The Austrian lobbying law clearly specifies that “entrepreneurial interests”[^11] of individual citizens are not to be exempted from the lobby regulation, for example.
+        
+        [^10]: Sect. 3 (10) Lobbying Disclosure Act of 1995 (United States): “more than one lobbying contact, other than an individual whose lobbying activities constitute less than 20 percent of the time engaged in the services provided by such individual to that client over a six month period.” , [lobbyingdisclosure.house.gov](http://lobbyingdisclosure.house.gov/index.html).
+        [^11]: Section 2 (2) Law on Lobbying (Austria), [www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2012_I_64](http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2012_I_64) (German). 
+  -
+    overview: |
+        6. Public officials, diplomats, political parties  – if deemed necessary, the regulation may exclude public officials acting in their official capacity, diplomatic agents of foreign states and political parties (since they play a quasi-public role).
+        
+    notes: |
+        Exceptions for **public officials** and **diplomats** are a recurrent feature in lobbying regulations[^12]. In Austria[^13] and the United States[^14] **political parties** are also specifically exempted from lobbying legislation. This is because these public actors are an established part of the decision-making process. As such, they should be covered under the proactive and reactive transparency requirements that apply to public decision-making processes (see the section on “Public Access to Information” for more).
+        
+        [^12]: See for example the detailed list of exceptions in Section 3 (8) (B) Lobbying Disclosure Act of 1995 (United States), [lobbyingdisclosure.house.gov](http://lobbyingdisclosure.house.gov/index.html).
+        [^13]: Section 1 (3) Law on Lobbying (Austria), [www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2012_I_64](http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2012_I_64) (German).
+        [^14]: Section 3 (8) (E) Lobbying Disclosure Act of 1995 (United States), [lobbyingdisclosure.house.gov](http://lobbyingdisclosure.house.gov/index.html).
+        
