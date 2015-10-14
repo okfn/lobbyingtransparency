@@ -94,12 +94,16 @@ body {
    Targeted Styles
    ========================================================================== */
 
+$menu-active-colour: $primary;
+
 .menu {        
     ul {
-        padding: 0 27px 15px 27px;
+        padding: 15px 27px 15px 27px;
+        margin-top: -5px;
         margin-left: -11px;
         font-weight: 600;
         display: inline-block;
+        background-color: $menu-active-colour;
     }
 }
 
@@ -167,6 +171,12 @@ body {
     }
     
     &.open {
+        
+        background-color: $menu-active-colour;
+        margin-left: -11px;
+        width: 75px;
+        border-left: solid 11px $menu-active-colour;
+        
         span {
             background: none;
         
@@ -225,10 +235,6 @@ body {
             left: 11px;
             margin: 0;
             padding: 0;
-        }
-        
-        ul {
-            background-color: $primary;
         }
     }
     
