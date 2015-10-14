@@ -1,0 +1,13 @@
+---
+title: Standards - Participation and Access
+---
+<div class="page-header">
+    <%= partial "header" %>
+</div>
+
+<article>
+    <% data.participation_access.content.each do |sec| %>
+        <%= partial(:standard_section, :locals => { :s => sec }) %>
+    <% end %>
+    <a href="<%= @baseurl %>/standards/oversight-management-sanctions" class="next">Next: Oversight, Management and Sanctions</a>
+</article>

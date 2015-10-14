@@ -1,0 +1,13 @@
+---
+title: Standards - Transparency
+---
+<div class="page-header">
+    <%= partial "header" %>
+</div>
+
+<article>
+    <% data.transparency.content.each do |sec| %>
+        <%= partial(:standard_section, :locals => { :s => sec }) %>
+    <% end %>
+    <a href="<%= @baseurl %>/standards/integrity" class="next">Next: Integrity</a>
+</article>

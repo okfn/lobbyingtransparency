@@ -1,0 +1,12 @@
+---
+title: Standards - Regulatory Framework Design
+---
+<div class="page-header">
+    <%= partial "header" %>
+</div>
+
+<article>
+    <% data.framework.content.each do |sec| %>
+        <%= partial(:standard_section, :locals => { :s => sec }) %>
+    <% end %>
+</article>
