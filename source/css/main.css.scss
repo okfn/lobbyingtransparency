@@ -400,7 +400,7 @@ body > article {
     }
 
     .next {
-        @extend #{$all-button-inputs};
+        @extend button;
         margin-top:small-spacing;
         margin-bottom:$small-spacing;
     }
@@ -486,7 +486,7 @@ html.index {
                     }
                     
                     & > a:not(.hashtag)  {
-                        @extend #{$all-button-inputs};
+                        @extend button;
                         color: $primary;
                         background-color: #fff;
                         font-size: rem(22);
