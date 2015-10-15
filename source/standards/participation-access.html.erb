@@ -9,5 +9,6 @@ title: Standards - Participation and Access
     <% data.participation_access.content.each do |sec| %>
         <%= partial(:standard_section, :locals => { :s => sec }) %>
     <% end %>
-    <a href="<%= @baseurl %>/standards/oversight-management-sanctions" class="next">Next: Oversight, Management and Sanctions</a>
+    <a href="<%= @baseurl %>/standards/integrity" class="previous"><span>Previous:</span> Integrity</a>
+    <a href="<%= @baseurl %>/standards/oversight-management-sanctions" class="next"><span>Next:</span> Oversight, Management and Sanctions</a>
 </article>

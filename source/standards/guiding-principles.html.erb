@@ -9,5 +9,6 @@ title: Standards - Guiding Principles
     <% data.guiding_principles.content.each do |sec| %>
         <%= partial(:standard_section, :locals => { :s => sec }) %>
     <% end %>
-    <a href="<%= @baseurl %>/standards/regulatory-scope" class="next">Next: Regulatory Scope</a>
+    <a href="<%= @baseurl %>/standards/introduction" class="previous"><span>Previous:</span> Introduction</a>
+    <a href="<%= @baseurl %>/standards/regulatory-scope" class="next"><span>Next:</span> Regulatory Scope</a>
 </article>

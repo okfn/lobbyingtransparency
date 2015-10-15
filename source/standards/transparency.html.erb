@@ -9,5 +9,6 @@ title: Standards - Transparency
     <% data.transparency.content.each do |sec| %>
         <%= partial(:standard_section, :locals => { :s => sec }) %>
     <% end %>
-    <a href="<%= @baseurl %>/standards/integrity" class="next">Next: Integrity</a>
+    <a href="<%= @baseurl %>/standards/regulatory-scope" class="previous"><span>Previous:</span> Regulatory Scope</a>
+    <a href="<%= @baseurl %>/standards/integrity" class="next"><span>Next:</span> Integrity</a>
 </article>

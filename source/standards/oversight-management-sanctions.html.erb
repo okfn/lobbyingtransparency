@@ -9,5 +9,6 @@ title: Standards - Oversight, Management and Sanctions
     <% data.oversight.content.each do |sec| %>
         <%= partial(:standard_section, :locals => { :s => sec }) %>
     <% end %>
-    <a href="<%= @baseurl %>/standards/regulatory-framework" class="next">Next: Regulatory Framework Design</a>
+    <a href="<%= @baseurl %>/standards/participation-access" class="previous"><span>Previous:</span> Participation and Access</a>
+    <a href="<%= @baseurl %>/standards/regulatory-framework" class="next"><span>Next:</span> Regulatory Framework Design</a>
 </article>

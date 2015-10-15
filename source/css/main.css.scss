@@ -399,10 +399,18 @@ body > article {
         }
     }
 
-    .next {
+    .next,
+    .previous {
         @extend button;
         margin-top:small-spacing;
         margin-bottom:$small-spacing;
+        
+        span {
+            font-weight: normal;
+        }
+    }
+    .previous {
+        background-color: $medium-gray;
     }
 }
 
