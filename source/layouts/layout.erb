@@ -39,6 +39,11 @@
                         </span>
                     </li>
                 </ul>
+                <% if current_page.data.attribution %>
+                <div class="attribution">
+                    <%= current_page.data.attribution %>
+                </div>
+                <% end %>
             </footer>
         </div>
 

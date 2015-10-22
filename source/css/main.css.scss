@@ -609,6 +609,13 @@ html.standards_index {
                 }
             }
         }
+        
+        .attribution {
+            border-top: solid 1px rgba(white, 0.6);
+            margin-top: $small-spacing;
+            padding-top: $small-spacing;
+            opacity: 0.6;
+        }
     }  
 }
 
