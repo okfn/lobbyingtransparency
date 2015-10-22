@@ -594,6 +594,9 @@ html.standards_index {
                 
                 &.eu {
                     padding-top: 2px;
+                    @media (min-width: $medium-screen) {
+                        margin-left: $small-spacing;
+                    }
                     
                     img {
                         height: 30px;
