@@ -76,7 +76,7 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
     
-    @baseurl = 'http://okfnlabs.org/lobbyingtransparency'
+    @baseurl = 'http://lobbyingtransparency.net/'
 end
 
 activate :deploy do |deploy|
