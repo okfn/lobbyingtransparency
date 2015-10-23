@@ -7,9 +7,13 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <!-- Use title if it's in the page YAML frontmatter -->
-        <title><%= current_page.data.title || "International standards for lobbying regulation" %></title>
-        <meta name="description" content="">
+        <title><%= current_page.data.title || "International Standards for Lobbying Regulation" %></title>
+        <meta name="description" content="The International Standards for Lobbying Regulation are the result of two years of collaborative work with civil society led by Transparency International, Access Info Europe, Sunlight Foundation and Open Knowledge. This initiative is unique in that it draws on the experience of a broad coalition of civil society organisations active in the field of lobbying transparency and open governance, and goes further than existing regulations and standards. The Standards aim at providing clear guidance to policymakers, governments and international organisations that are thinking of or are in the process of enacting lobbying legislation. They also serve as a reference point for civil society organisations to campaign in their countries to ensure that efforts to regulate lobbying are robust, comprehensive and effective.">
         <meta name="viewport" content="width=device-width">
+        
+        <meta property="og:title" content="<%= current_page.data.title || "International Standards for Lobbying Regulation" %>" />
+        <meta property="og:description" content="The International Standards for Lobbying Regulation are the result of two years of collaborative work with civil society led by Transparency International, Access Info Europe, Sunlight Foundation and Open Knowledge. This initiative is unique in that it draws on the experience of a broad coalition of civil society organisations active in the field of lobbying transparency and open governance, and goes further than existing regulations and standards. The Standards aim at providing clear guidance to policymakers, governments and international organisations that are thinking of or are in the process of enacting lobbying legislation. They also serve as a reference point for civil society organisations to campaign in their countries to ensure that efforts to regulate lobbying are robust, comprehensive and effective." />
+        <meta property="og:image" content="<%= @baseurl %>/thumb.jpg"/>
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
         <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
