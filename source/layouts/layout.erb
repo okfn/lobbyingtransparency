@@ -23,6 +23,12 @@
         <!--[if lt IE 9]>
         <link rel="stylesheet" href="<%= @baseurl %>/css/ie.css">
         <![endif]-->
+        <script>
+          var okiConsent = {
+            analyticsTrackingID: 'UA-48682838-8',
+          };
+        </script>
+        <script src="https://a.okfn.org/html/oki/consent/assets/js/consent.js"></script>
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -46,11 +52,9 @@
                         </span>
                     </li>
                 </ul>
-                <% if current_page.data.attribution %>
                 <div class="attribution">
-                    <%= current_page.data.attribution %>
+                  <% if current_page.data.attribution %><%= current_page.data.attribution %> | <% end %><a href="https://okfn.org/privacy-policy/" rel="external">Privacy Policy</a>
                 </div>
-                <% end %>
             </footer>
         </div>
 
@@ -58,13 +62,5 @@
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.0.min.js"><\/script>')</script>
         <script src="<%= @baseurl %>/js/plugins.js"></script>
         <script src="<%= @baseurl %>/js/main.js"></script>
-
-        <!-- Google Analytics -->
-        <script>
-            var _gaq=[['_setAccount','UA-48682838-8'],['_trackPageview']];
-            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-            g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-            s.parentNode.insertBefore(g,s)}(document,'script'));
-        </script>
     </body>
 </html>
