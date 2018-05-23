@@ -1,0 +1,21 @@
+/* ==========================================================================
+   Chrome Frame prompt
+   ========================================================================== */
+/* line 6, /Users/sam/www/okfn/lobbyingtransparency/source/css/ie.css.scss */
+.chromeframe {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0; }
+
+/* ==========================================================================
+   IE fixes
+   ========================================================================== */
+/* line 21, /Users/sam/www/okfn/lobbyingtransparency/source/css/ie.css.scss */
+html.lt-ie9.standards_index body, html.lt-ie9.index body {
+  background-image: none;
+  background-color: #00a9a5; }
+/* line 27, /Users/sam/www/okfn/lobbyingtransparency/source/css/ie.css.scss */
+html.lt-ie9 .hashtag {
+  top: 40px;
+  right: 30px; }
